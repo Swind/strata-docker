@@ -1,0 +1,3 @@
+# the build context is this folder only (Strata itself comes in as the named context "strata")
+*
+!strata-entrypoint.sh

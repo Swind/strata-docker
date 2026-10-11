@@ -1,0 +1,6 @@
+# downloaded Strata releases (build.sh), logs, and anything secret or large
+/src/
+*.log
+/run.env
+/secrets/
+/data/
